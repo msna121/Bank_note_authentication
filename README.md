@@ -11,5 +11,5 @@ The authenticity of the bank notes is to be predicted based on the extracted fea
 ## Tools used
 Python3, Jupyter notebook, flask, docker, streamlit.
 
-Credits
+### Credits:
 @Krish_Naik
